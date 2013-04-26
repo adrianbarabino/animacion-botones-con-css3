@@ -17,8 +17,8 @@ li{
 .barras{
 	height:5px;
 	border: 3px solid #000;
-	width:100px;
-	transform: rotate(-45deg);
+	width:110px;
+	transform: rotate(-30deg);
 }
 
 #barra3{
@@ -59,4 +59,54 @@ li:hover #barra5{
 	-webkit-animation-duration: 3s;
 	-webkit-animation-iteration-count: infinite;
 	-webkit-animation-timing-function: easing;
+}
+li:hover #barra6{
+	-webkit-animation-name: disco6;
+	-webkit-animation-duration: 3s;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-timing-function: easing;
+}
+li:hover #barra7{
+	-webkit-animation-name: disco7;
+	-webkit-animation-duration: 3s;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-timing-function: easing;
+}
+li:hover #barra8{
+	-webkit-animation-name: disco8;
+	-webkit-animation-duration: 3s;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-timing-function: easing;
+}
+li:hover #barra9{
+	-webkit-animation-name: disco9;
+	-webkit-animation-duration: 3s;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-timing-function: easing;
+}
+
+#boton_inicio{
+	position: relative;
+	color: white;
+	text-decoration: none;
+	font-size: 28px;
+	top: -40px;
+	left: 25px;
+}
+
+.mascara{
+	width: 150px;
+	height: 100px;
+	position: relative;
+	top: -139px;
+	left: -57px;
+}
+
+.barras-container{
+	width: 150px;
+	height: 100px;
+	position: relative;
+	margin-top: -5px;
+	top: -20px;
+	left: -8px;
 }

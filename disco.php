@@ -64,6 +64,42 @@ $hex_values = array(
     }
     ?> 
 }
+@-webkit-keyframes disco6 { 
+    <?
+    for($i=0;$i<=100;$i++)
+    {
+        echo create_animation_frame($i);
+        $i++; // Add another value to $i. Remove line = 100 frames.
+    }
+    ?> 
+}
+@-webkit-keyframes disco7 { 
+    <?
+    for($i=0;$i<=100;$i++)
+    {
+        echo create_animation_frame($i);
+        $i++; // Add another value to $i. Remove line = 100 frames.
+    }
+    ?> 
+}
+@-webkit-keyframes disco8 { 
+    <?
+    for($i=0;$i<=100;$i++)
+    {
+        echo create_animation_frame($i);
+        $i++; // Add another value to $i. Remove line = 100 frames.
+    }
+    ?> 
+}
+@-webkit-keyframes disco9 { 
+    <?
+    for($i=0;$i<=100;$i++)
+    {
+        echo create_animation_frame($i);
+        $i++; // Add another value to $i. Remove line = 100 frames.
+    }
+    ?> 
+}
 @-webkit-keyframes disco { 
     <?
     for($i=0;$i<=100;$i++)

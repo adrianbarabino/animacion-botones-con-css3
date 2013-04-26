@@ -21,7 +21,11 @@
 					<div class="barras" id="barra2"></div>
 					<div class="barras" id="barra3"></div>
 					<div class="barras" id="barra4"></div>
-					<div class="barras" id="barra5"></div>
+					<div class="barras" id="barra5"></div>					
+					<div class="barras" id="barra6"></div>
+					<div class="barras" id="barra7"></div>
+					<div class="barras" id="barra8"></div>
+					<div class="barras" id="barra9"></div>
 				</div>
 				<div class="mascara">
 					<img src="mascara.png" alt="" class="mascaraimg">

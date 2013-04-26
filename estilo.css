@@ -26,6 +26,7 @@ li{
 }
 
 #barra1{
+	width: 80px;
 	height:7px;
 }
 
@@ -99,7 +100,7 @@ li:hover #barra9{
 	height: 100px;
 	position: relative;
 	top: -139px;
-	left: -57px;
+	left: -50px;
 }
 
 .barras-container{

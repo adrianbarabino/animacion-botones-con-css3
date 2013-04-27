@@ -87,7 +87,7 @@ li:hover .barra9{
 	-webkit-animation-timing-function: easing;
 }
 
-.boton_inicio{
+ul li a{
 	position: relative;
 	color: white;
 	text-decoration: none;

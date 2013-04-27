@@ -1,0 +1,94 @@
+<!doctype html>
+<!-- The Time Machine GitHub pages theme was designed and developed by Jon Rohan, on Feb 7, 2012. -->
+<!-- Follow him for fun. http://twitter.com/jonrohan. Tail his code on http://github.com/jonrohan -->
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <link rel="stylesheet" href="stylesheets/stylesheet.css" media="screen"/>
+  <link rel="stylesheet" href="stylesheets/pygment_trac.css"/>
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <script type="text/javascript" src="javascripts/script.js"></script>
+
+  <title>Animacion-botones-con-css3</title>
+  <meta name="description" content="Animación de fondo de botones con CSS3">
+
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+
+</head>
+
+<body>
+
+  <div class="wrapper">
+    <header>
+      <h1 class="title">Animacion-botones-con-css3</h1>
+    </header>
+    <div id="container">
+      <p class="tagline">Animación de fondo de botones con CSS3</p>
+      <div id="main" role="main">
+        <div class="download-bar">
+        <div class="inner">
+          <a href="https://github.com/adrianbarabino/animacion-botones-con-css3/tarball/master" class="download-button tar"><span>Download</span></a>
+          <a href="https://github.com/adrianbarabino/animacion-botones-con-css3/zipball/master" class="download-button zip"><span>Download</span></a>
+          <a href="https://github.com/adrianbarabino/animacion-botones-con-css3" class="code">View Animacion-botones-con-css3 on GitHub</a>
+        </div>
+        <span class="blc"></span><span class="trc"></span>
+        </div>
+        <article class="markdown-body">
+          <h1>animacion-botones-con-css3</h1>
+
+<h1>Cómo funciona?</h1>
+
+<p>Funciona mediante el uso de animaciones CSS3, con las cuales se crean 9 barras utilizando las clases .barras y .barra9 (para la barra de cada número), estas barras mediante transform:rotate, las rotamos -160deg, eso hace que queden cruzadas.</p>
+
+<p>Para la animación al pasarle el mouse, se utiliza animation de CSS3, y mediante el archivo colores.php creamos con PHP los colores de la animación que se reproducirá al pasarle el mouse.</p>
+
+<p>Como último recurso, mediante -webkit-mask-image utilizamos la imagen vectorial circulo.svg como máscara para las barras, para que no se vea el excedente de ellas, y sea más atractivo visualmente. También se puede editar esta máscara mediante este <a href="http://svg-edit.googlecode.com/svn/branches/2.6/editor/svg-editor.html" target="_blank">editor de SVG Online</a> muy fácilmente. </p>
+
+<h1>Limitaciones</h1>
+
+<p>Esta animación solo está disponible para utilizarse mediante navegadores con motor Webkit, osea, Google Chrome o Safari, en caso de otros navegadores, hay que utilizar como máscaras imágenes .png con transparencia, como <a href="mascara.png">esta imagen</a>.
+En ese caso el código hay que agregar la clase "png" a la etiqueta &lt;ul&gt;. Con esto ya tendría que funcionar, y para hacer cambios del espacio que se quiera mostrar de las barras, hay que editar el archivo mascara.png en un editor de imágenes con Adobe Fireworks o Adobe Photoshop, siempre guardando esta imagen en .png con transparencia.</p>
+
+<h1>Para que sirve esto?</h1>
+
+<p>Este ejemplo/código puede ser utilizado sin ningún problema, la idea es que sirva para aprender sobre lo que se puede hacer mediante CSS3, este ejemplo puede ser llevado a algo más funcional quizás.</p>
+
+<p>Espero que les sea útil para usarlo o simplemente para aprender del código de esto.</p>
+
+<h1>Como usarlo?</h1>
+
+<p>Para usar estos botones, debés descargar el repositorio via github, o clonarlo mediante git clone.
+Y necesitás agregar en el head de tu sitio los link href para los archivos colores.php y botones-con-animacion.css.</p>
+
+<p>Tras finalizar esto, debés agregar el código que se encuentra arriba en la pestaña "código", en el cuerpo de tu sitio web. </p>
+
+<h1>Sobre esto</h1>
+
+<p>La animación de colores al azar, osea, lo del archivo colores.php fue sacado del artículo <a href="http://miekd.com/articles/random-color-css3-animation/" target="_blank">Random Color CSS3 Animation</a> del blog de <a href="http://www.maykelloomans.com/" target="_blank">Maykel Loomans</a>.</p>
+
+<p>Mientras que el resto fue realizado por <a href="http://www.adrianbarabino.com.ar">Adrian Barabino</a></p>
+        </article>
+      </div>
+    </div>
+    <footer>
+      <div class="owner">
+      <p><a href="https://github.com/adrianbarabino" class="avatar"><img src="https://secure.gravatar.com/avatar/7d2f497dbfa029b9b65bb0ad4dabbc71?s=30&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png" width="48" height="48"/></a> <a href="https://github.com/adrianbarabino">adrianbarabino</a> maintains <a href="https://github.com/adrianbarabino/animacion-botones-con-css3">Animacion-botones-con-css3</a></p>
+
+
+      </div>
+      <div class="creds">
+        <small>This page generated using <a href="https://pages.github.com/">GitHub Pages</a><br/>theme by <a href="http://twitter.com/jonrohan/">Jon Rohan</a></small>
+      </div>
+    </footer>
+  </div>
+  <div class="current-section">
+    <a href="#top">Scroll to top</a>
+    <a href="https://github.com/adrianbarabino/animacion-botones-con-css3/tarball/master" class="tar">tar</a><a href="https://github.com/adrianbarabino/animacion-botones-con-css3/zipball/master" class="zip">zip</a><a href="" class="code">source code</a>
+    <p class="name"></p>
+  </div>
+
+  
+</body>
+</html>

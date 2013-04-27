@@ -1,7 +1,7 @@
 animacion-botones-con-css3
 ==========================
 
-Como funciona?
+Cómo funciona?
 ===================
 
 	

@@ -1,0 +1,47 @@
+body{
+	background: rgb(11, 49, 94);
+}
+
+ul#menu{
+	list-style:none;
+	margin:0;
+}
+ul#menu li{ display:inline-block; padding:0.2em;background:#17E;}
+ul#menu li a{
+	color:white;
+}
+
+
+nav h2{
+	margin-bottom:2em;
+	color:white;
+}
+
+.contenedor > h2, h1{
+	border-bottom: 3px solid rgba(50,50,50,0.7);
+}
+
+.contenedor{
+	background: #fff;
+	max-width: 800px;
+	margin: 0 auto;
+	border-radius: 0.5em;
+	padding: 0.5em 1em;
+}
+
+code.linea{
+display: block;
+padding: 0.2em;
+background: #17E;
+color: white;
+}
+
+
+.codigo-grande{
+	margin-top: 3em;
+	background: #17E;
+	padding: 1em;
+	margin: 0 auto;
+	color: white;
+	font-family: monospace;
+}

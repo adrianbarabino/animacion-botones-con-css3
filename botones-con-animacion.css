@@ -1,0 +1,153 @@
+
+.botones ul{
+	list-style:none;
+	width:80%;
+}
+
+.botones li{
+	display:inline-block;
+	width:18.9%;
+	height:80px;
+	padding:1em;
+}
+
+nav.botones{
+	margin-top: 3em;
+	background: #17E;
+	padding: 1em;
+	margin: 0 auto;
+}
+.botones .barras{
+	height:5px;
+	border: 3px solid #000;
+	width:110px;
+	transform: rotate(-160deg);
+}
+
+.botones .barra3{
+	height:10px;
+}
+
+.botones .barra1{
+
+	height:7px;
+}
+
+.botones .barra5{
+	height:6px;
+}
+.botones .barra6{
+	height:4px;
+}
+.botones .barra7{
+	height:11px;
+}
+
+
+.botones li:hover .barra1{
+	animation-name: disco;
+	animation-duration: 3s;
+	animation-iteration-count: infinite;
+	animation-timing-function: easing;
+}
+.botones li:hover .barra2{
+	animation-name: disco2;
+	animation-duration: 3s;
+	animation-iteration-count: infinite;
+	animation-timing-function: easing;
+}
+.botones li:hover .barra3{
+	animation-name: disco3;
+	animation-duration: 3s;
+	animation-iteration-count: infinite;
+	animation-timing-function: easing;
+}
+.botones li:hover .barra4{
+	animation-name: disco4;
+	animation-duration: 3s;
+	animation-iteration-count: infinite;
+	animation-timing-function: easing;
+}
+.botones li:hover .barra5{
+	animation-name: disco5;
+	animation-duration: 3s;
+	animation-iteration-count: infinite;
+	animation-timing-function: easing;
+}
+.botones li:hover .barra6{
+	animation-name: disco6;
+	animation-duration: 3s;
+	animation-iteration-count: infinite;
+	animation-timing-function: easing;
+}
+.botones li:hover .barra7{
+	animation-name: disco7;
+	animation-duration: 3s;
+	animation-iteration-count: infinite;
+	animation-timing-function: easing;
+}
+.botones li:hover .barra8{
+	animation-name: disco8;
+	animation-duration: 3s;
+	animation-iteration-count: infinite;
+	animation-timing-function: easing;
+}
+.botones li:hover .barra9{
+	animation-name: disco9;
+	animation-duration: 3s;
+	animation-iteration-count: infinite;
+	animation-timing-function: easing;
+}
+
+.botones ul li a{
+	position: relative;
+	color: white;
+	text-decoration: none;
+	font-size: 28px;
+	top: -66px;
+	left: 25px;
+	text-shadow: 
+	0 0 10px #000,
+	0 0 10px rgb(0, 87, 114), 
+	0 0 5px rgb(0, 144, 156);
+	z-index:100;
+}
+
+.botones .barras-container{
+	width: 150px;
+	height: 100px;
+	position: relative;
+	margin-top: -5px;
+	top: -20px;
+	left: -8px;
+	mask-image: url(circulo.svg);
+	mask-size: 90%;
+}
+
+
+.botones .png li{
+	position:relative;
+	z-index:1;
+}
+
+.botones .png li a{
+	top:50px;
+	left: 40px;
+	position:absolute;
+
+}
+
+.botones .png li a:before{
+	content: url(mascara.png);
+	width: 150px;
+	height: 100px;
+	position: absolute;
+	top: -77px;
+	left: -76px;
+	z-index:-1;
+}
+
+.botones .png .barras-container{
+	mask-image:none;
+	mask-size:0;
+}

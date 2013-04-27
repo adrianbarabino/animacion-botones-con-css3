@@ -15,11 +15,11 @@ $hex_values = array(
         $current_hex .= $hex_values[$rand];
     }
 
-    return $num."% { background: #".$current_hex."; }";
+    return $num."% { transition: all 1s ease-in-out; background: #".$current_hex."; }";
 
 }
 ?>
-@-webkit-keyframes disco1 { 
+@keyframes disco1 { 
     <?
     for($i=0;$i<=100;$i++)
     {
@@ -28,7 +28,7 @@ $hex_values = array(
     }
     ?> 
 }
-@-webkit-keyframes disco2 { 
+@keyframes disco2 { 
     <?
     for($i=0;$i<=100;$i++)
     {
@@ -37,7 +37,7 @@ $hex_values = array(
     }
     ?> 
 }
-@-webkit-keyframes disco3 { 
+@keyframes disco3 { 
     <?
     for($i=0;$i<=100;$i++)
     {
@@ -46,7 +46,7 @@ $hex_values = array(
     }
     ?> 
 }
-@-webkit-keyframes disco4 { 
+@keyframes disco4 { 
     <?
     for($i=0;$i<=100;$i++)
     {
@@ -55,7 +55,7 @@ $hex_values = array(
     }
     ?> 
 }
-@-webkit-keyframes disco5 { 
+@keyframes disco5 { 
     <?
     for($i=0;$i<=100;$i++)
     {
@@ -64,7 +64,7 @@ $hex_values = array(
     }
     ?> 
 }
-@-webkit-keyframes disco6 { 
+@keyframes disco6 { 
     <?
     for($i=0;$i<=100;$i++)
     {
@@ -73,7 +73,7 @@ $hex_values = array(
     }
     ?> 
 }
-@-webkit-keyframes disco7 { 
+@keyframes disco7 { 
     <?
     for($i=0;$i<=100;$i++)
     {
@@ -82,7 +82,7 @@ $hex_values = array(
     }
     ?> 
 }
-@-webkit-keyframes disco8 { 
+@keyframes disco8 { 
     <?
     for($i=0;$i<=100;$i++)
     {
@@ -91,7 +91,7 @@ $hex_values = array(
     }
     ?> 
 }
-@-webkit-keyframes disco9 { 
+@keyframes disco9 { 
     <?
     for($i=0;$i<=100;$i++)
     {
@@ -100,7 +100,7 @@ $hex_values = array(
     }
     ?> 
 }
-@-webkit-keyframes disco { 
+@keyframes disco { 
     <?
     for($i=0;$i<=100;$i++)
     {

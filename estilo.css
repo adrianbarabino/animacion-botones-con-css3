@@ -22,72 +22,72 @@ li{
 	transform: rotate(-30deg);
 }
 
-#barra3{
+.barra3{
 	height:10px;
 }
 
-#barra1{
+.barra1{
 	width: 80px;
 	height:7px;
 }
 
 
-li:hover #barra1{
+li:hover .barra1{
 	-webkit-animation-name: disco;
 	-webkit-animation-duration: 3s;
 	-webkit-animation-iteration-count: infinite;
 	-webkit-animation-timing-function: easing;
 }
-li:hover #barra2{
+li:hover .barra2{
 	-webkit-animation-name: disco2;
 	-webkit-animation-duration: 3s;
 	-webkit-animation-iteration-count: infinite;
 	-webkit-animation-timing-function: easing;
 }
-li:hover #barra3{
+li:hover .barra3{
 	-webkit-animation-name: disco3;
 	-webkit-animation-duration: 3s;
 	-webkit-animation-iteration-count: infinite;
 	-webkit-animation-timing-function: easing;
 }
-li:hover #barra4{
+li:hover .barra4{
 	-webkit-animation-name: disco4;
 	-webkit-animation-duration: 3s;
 	-webkit-animation-iteration-count: infinite;
 	-webkit-animation-timing-function: easing;
 }
-li:hover #barra5{
+li:hover .barra5{
 	-webkit-animation-name: disco5;
 	-webkit-animation-duration: 3s;
 	-webkit-animation-iteration-count: infinite;
 	-webkit-animation-timing-function: easing;
 }
-li:hover #barra6{
+li:hover .barra6{
 	-webkit-animation-name: disco6;
 	-webkit-animation-duration: 3s;
 	-webkit-animation-iteration-count: infinite;
 	-webkit-animation-timing-function: easing;
 }
-li:hover #barra7{
+li:hover .barra7{
 	-webkit-animation-name: disco7;
 	-webkit-animation-duration: 3s;
 	-webkit-animation-iteration-count: infinite;
 	-webkit-animation-timing-function: easing;
 }
-li:hover #barra8{
+li:hover .barra8{
 	-webkit-animation-name: disco8;
 	-webkit-animation-duration: 3s;
 	-webkit-animation-iteration-count: infinite;
 	-webkit-animation-timing-function: easing;
 }
-li:hover #barra9{
+li:hover .barra9{
 	-webkit-animation-name: disco9;
 	-webkit-animation-duration: 3s;
 	-webkit-animation-iteration-count: infinite;
 	-webkit-animation-timing-function: easing;
 }
 
-#boton_inicio{
+.boton_inicio{
 	position: relative;
 	color: white;
 	text-decoration: none;

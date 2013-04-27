@@ -17,25 +17,77 @@
 		<ul>
 			<li>
 				<div class="barras-container">
-					<div class="barras" id="barra1"></div>
-					<div class="barras" id="barra2"></div>
-					<div class="barras" id="barra3"></div>
-					<div class="barras" id="barra4"></div>
-					<div class="barras" id="barra5"></div>					
-					<div class="barras" id="barra6"></div>
-					<div class="barras" id="barra7"></div>
-					<div class="barras" id="barra8"></div>
-					<div class="barras" id="barra9"></div>
+					<div class="barras barra1"></div>
+					<div class="barras barra2"></div>
+					<div class="barras barra3"></div>
+					<div class="barras barra4"></div>
+					<div class="barras barra5"></div>					
+					<div class="barras barra6"></div>
+					<div class="barras barra7"></div>
+					<div class="barras barra8"></div>
+					<div class="barras barra9"></div>
 				</div>
 				<div class="mascara">
 					<img src="mascara.png" alt="" class="mascaraimg">
 				</div>
-				<a id="boton_inicio" href="javascript:void(0)">Inicio</a>
+				<a class="boton_inicio" href="javascript:void(0)">Inicio</a>
 			</li>
 
-			<li><a id="boton_fotos"href="javascript:void(0)">Fotos</a></li>
-			<li><a id="boton_ubicacion"href="javascript:void(0)">Ubicacion</a></li>
-			<li><a id="boton_contact"href="javascript:void(0)">Contacto</a></li>
+<li>
+				<div class="barras-container">
+					<div class="barras barra1"></div>
+					<div class="barras barra2"></div>
+					<div class="barras barra3"></div>
+					<div class="barras barra4"></div>
+					<div class="barras barra5"></div>					
+					<div class="barras barra6"></div>
+					<div class="barras barra7"></div>
+					<div class="barras barra8"></div>
+					<div class="barras barra9"></div>
+				</div>
+				<div class="mascara">
+					<img src="mascara.png" alt="" class="mascaraimg">
+				</div>
+				<a class="boton_fotos" href="javascript:void(0)">Fotos</a>
+			</li>
+
+<li>
+				<div class="barras-container">
+					<div class="barras barra1"></div>
+					<div class="barras barra2"></div>
+					<div class="barras barra3"></div>
+					<div class="barras barra4"></div>
+					<div class="barras barra5"></div>					
+					<div class="barras barra6"></div>
+					<div class="barras barra7"></div>
+					<div class="barras barra8"></div>
+					<div class="barras barra9"></div>
+				</div>
+				<div class="mascara">
+					<img src="mascara.png" alt="" class="mascaraimg">
+				</div>
+				<a class="boton_ubicacion" href="javascript:void(0)">Ubicacion</a>
+			</li>
+
+<li>
+				<div class="barras-container">
+					<div class="barras barra1"></div>
+					<div class="barras barra2"></div>
+					<div class="barras barra3"></div>
+					<div class="barras barra4"></div>
+					<div class="barras barra5"></div>					
+					<div class="barras barra6"></div>
+					<div class="barras barra7"></div>
+					<div class="barras barra8"></div>
+					<div class="barras barra9"></div>
+				</div>
+				<div class="mascara">
+					<img src="mascara.png" alt="" class="mascaraimg">
+				</div>
+				<a class="boton_contacto" href="javascript:void(0)">Contacto</a>
+			</li>
+
+	
 		</ul>
 	</nav>
 

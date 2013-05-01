@@ -1,0 +1,432 @@
+@keyframes disco1 { 
+    0% { transition: all 1s ease-in-out; background: #0; }2% { 
+transition: all 1s ease-in-out; background: #eb; }4% { transition: all 
+1s ease-in-out; background: #bc; }6% { transition: all 1s ease-in-out; 
+background: #dd3; }8% { transition: all 1s ease-in-out; background: #eb; 
+}10% { transition: all 1s ease-in-out; background: #243; }12% { 
+transition: all 1s ease-in-out; background: #b4; }14% { transition: all 
+1s ease-in-out; background: #4; }16% { transition: all 1s ease-in-out; 
+background: #4f; }18% { transition: all 1s ease-in-out; background: #; 
+}20% { transition: all 1s ease-in-out; background: #; }22% { transition: 
+all 1s ease-in-out; background: #3c; }24% { transition: all 1s 
+ease-in-out; background: #1e2; }26% { transition: all 1s ease-in-out; 
+background: #df; }28% { transition: all 1s ease-in-out; background: #e; 
+}30% { transition: all 1s ease-in-out; background: #d4; }32% { 
+transition: all 1s ease-in-out; background: #ef; }34% { transition: all 
+1s ease-in-out; background: #c; }36% { transition: all 1s ease-in-out; 
+background: #d; }38% { transition: all 1s ease-in-out; background: #dd; 
+}40% { transition: all 1s ease-in-out; background: #3d2; }42% { 
+transition: all 1s ease-in-out; background: #03b; }44% { transition: all 
+1s ease-in-out; background: #db; }46% { transition: all 1s ease-in-out; 
+background: #f; }48% { transition: all 1s ease-in-out; background: #3ec; 
+}50% { transition: all 1s ease-in-out; background: #301; }52% { 
+transition: all 1s ease-in-out; background: #d; }54% { transition: all 
+1s ease-in-out; background: #10; }56% { transition: all 1s ease-in-out; 
+background: #4; }58% { transition: all 1s ease-in-out; background: #dd; 
+}60% { transition: all 1s ease-in-out; background: #; }62% { transition: 
+all 1s ease-in-out; background: #002; }64% { transition: all 1s 
+ease-in-out; background: #cdd; }66% { transition: all 1s ease-in-out; 
+background: #41b; }68% { transition: all 1s ease-in-out; background: 
+#2b; }70% { transition: all 1s ease-in-out; background: #fe; }72% { 
+transition: all 1s ease-in-out; background: #f; }74% { transition: all 
+1s ease-in-out; background: #b03; }76% { transition: all 1s ease-in-out; 
+background: #c0e; }78% { transition: all 1s ease-in-out; background: 
+#2d4; }80% { transition: all 1s ease-in-out; background: #fc4; }82% { 
+transition: all 1s ease-in-out; background: #ed4; }84% { transition: all 
+1s ease-in-out; background: #; }86% { transition: all 1s ease-in-out; 
+background: #32; }88% { transition: all 1s ease-in-out; background: 
+#e42; }90% { transition: all 1s ease-in-out; background: #c; }92% { 
+transition: all 1s ease-in-out; background: #4e; }94% { transition: all 
+1s ease-in-out; background: #; }96% { transition: all 1s ease-in-out; 
+background: #14; }98% { transition: all 1s ease-in-out; background: 
+#fd3; }100% { transition: all 1s ease-in-out; background: #1f; } 
+}
+@keyframes disco2 { 
+    0% { transition: all 1s ease-in-out; background: #2f1; }2% { 
+transition: all 1s ease-in-out; background: #cb; }4% { transition: all 
+1s ease-in-out; background: #2e1; }6% { transition: all 1s ease-in-out; 
+background: #00c; }8% { transition: all 1s ease-in-out; background: 
+#2d4; }10% { transition: all 1s ease-in-out; background: #; }12% { 
+transition: all 1s ease-in-out; background: #ef; }14% { transition: all 
+1s ease-in-out; background: #30; }16% { transition: all 1s ease-in-out; 
+background: #4d; }18% { transition: all 1s ease-in-out; background: 
+#12e; }20% { transition: all 1s ease-in-out; background: #b2; }22% { 
+transition: all 1s ease-in-out; background: #d; }24% { transition: all 
+1s ease-in-out; background: #; }26% { transition: all 1s ease-in-out; 
+background: #0; }28% { transition: all 1s ease-in-out; background: #31d; 
+}30% { transition: all 1s ease-in-out; background: #d3; }32% { 
+transition: all 1s ease-in-out; background: #4e; }34% { transition: all 
+1s ease-in-out; background: #e; }36% { transition: all 1s ease-in-out; 
+background: #0f; }38% { transition: all 1s ease-in-out; background: #d; 
+}40% { transition: all 1s ease-in-out; background: #c4; }42% { 
+transition: all 1s ease-in-out; background: #220; }44% { transition: all 
+1s ease-in-out; background: #f; }46% { transition: all 1s ease-in-out; 
+background: #f; }48% { transition: all 1s ease-in-out; background: #f0; 
+}50% { transition: all 1s ease-in-out; background: #0c0; }52% { 
+transition: all 1s ease-in-out; background: #4e; }54% { transition: all 
+1s ease-in-out; background: #13; }56% { transition: all 1s ease-in-out; 
+background: #f; }58% { transition: all 1s ease-in-out; background: #c3d; 
+}60% { transition: all 1s ease-in-out; background: #b3; }62% { 
+transition: all 1s ease-in-out; background: #b0; }64% { transition: all 
+1s ease-in-out; background: #; }66% { transition: all 1s ease-in-out; 
+background: #e; }68% { transition: all 1s ease-in-out; background: #f2f; 
+}70% { transition: all 1s ease-in-out; background: #f30; }72% { 
+transition: all 1s ease-in-out; background: #fd; }74% { transition: all 
+1s ease-in-out; background: #2ed; }76% { transition: all 1s ease-in-out; 
+background: #b13; }78% { transition: all 1s ease-in-out; background: 
+#2dc; }80% { transition: all 1s ease-in-out; background: #f; }82% { 
+transition: all 1s ease-in-out; background: #dd; }84% { transition: all 
+1s ease-in-out; background: #e3; }86% { transition: all 1s ease-in-out; 
+background: #dc; }88% { transition: all 1s ease-in-out; background: 
+#1ce; }90% { transition: all 1s ease-in-out; background: #0; }92% { 
+transition: all 1s ease-in-out; background: #3; }94% { transition: all 
+1s ease-in-out; background: #e; }96% { transition: all 1s ease-in-out; 
+background: #02; }98% { transition: all 1s ease-in-out; background: 
+#44b; }100% { transition: all 1s ease-in-out; background: #2; } 
+}
+@keyframes disco3 { 
+    0% { transition: all 1s ease-in-out; background: #4c; }2% { 
+transition: all 1s ease-in-out; background: #3; }4% { transition: all 1s 
+ease-in-out; background: #1b; }6% { transition: all 1s ease-in-out; 
+background: #ed2; }8% { transition: all 1s ease-in-out; background: 
+#132; }10% { transition: all 1s ease-in-out; background: #; }12% { 
+transition: all 1s ease-in-out; background: #0ef; }14% { transition: all 
+1s ease-in-out; background: #e; }16% { transition: all 1s ease-in-out; 
+background: #f0; }18% { transition: all 1s ease-in-out; background: #e; 
+}20% { transition: all 1s ease-in-out; background: #1b; }22% { 
+transition: all 1s ease-in-out; background: #4; }24% { transition: all 
+1s ease-in-out; background: #f1; }26% { transition: all 1s ease-in-out; 
+background: #bf2; }28% { transition: all 1s ease-in-out; background: 
+#db; }30% { transition: all 1s ease-in-out; background: #d4; }32% { 
+transition: all 1s ease-in-out; background: #de; }34% { transition: all 
+1s ease-in-out; background: #04b; }36% { transition: all 1s ease-in-out; 
+background: #3; }38% { transition: all 1s ease-in-out; background: #; 
+}40% { transition: all 1s ease-in-out; background: #d; }42% { 
+transition: all 1s ease-in-out; background: #0d; }44% { transition: all 
+1s ease-in-out; background: #b3f; }46% { transition: all 1s ease-in-out; 
+background: #f2; }48% { transition: all 1s ease-in-out; background: #20; 
+}50% { transition: all 1s ease-in-out; background: #db; }52% { 
+transition: all 1s ease-in-out; background: #1; }54% { transition: all 
+1s ease-in-out; background: #e21; }56% { transition: all 1s ease-in-out; 
+background: #; }58% { transition: all 1s ease-in-out; background: #1; 
+}60% { transition: all 1s ease-in-out; background: #b; }62% { 
+transition: all 1s ease-in-out; background: #4c4; }64% { transition: all 
+1s ease-in-out; background: #e; }66% { transition: all 1s ease-in-out; 
+background: #b1; }68% { transition: all 1s ease-in-out; background: #e1; 
+}70% { transition: all 1s ease-in-out; background: #bb; }72% { 
+transition: all 1s ease-in-out; background: #0; }74% { transition: all 
+1s ease-in-out; background: #ef0; }76% { transition: all 1s ease-in-out; 
+background: #d; }78% { transition: all 1s ease-in-out; background: #fff; 
+}80% { transition: all 1s ease-in-out; background: #bb; }82% { 
+transition: all 1s ease-in-out; background: #0b; }84% { transition: all 
+1s ease-in-out; background: #4c1; }86% { transition: all 1s ease-in-out; 
+background: #; }88% { transition: all 1s ease-in-out; background: #3; 
+}90% { transition: all 1s ease-in-out; background: #f1; }92% { 
+transition: all 1s ease-in-out; background: #41; }94% { transition: all 
+1s ease-in-out; background: #; }96% { transition: all 1s ease-in-out; 
+background: #d3; }98% { transition: all 1s ease-in-out; background: #f1; 
+}100% { transition: all 1s ease-in-out; background: #2c1; } 
+}
+@keyframes disco4 { 
+    0% { transition: all 1s ease-in-out; background: #1d; }2% { 
+transition: all 1s ease-in-out; background: #d2; }4% { transition: all 
+1s ease-in-out; background: #fe; }6% { transition: all 1s ease-in-out; 
+background: #cc1; }8% { transition: all 1s ease-in-out; background: #2c; 
+}10% { transition: all 1s ease-in-out; background: #32; }12% { 
+transition: all 1s ease-in-out; background: #b; }14% { transition: all 
+1s ease-in-out; background: #1d2; }16% { transition: all 1s ease-in-out; 
+background: #403; }18% { transition: all 1s ease-in-out; background: 
+#03; }20% { transition: all 1s ease-in-out; background: #2b1; }22% { 
+transition: all 1s ease-in-out; background: #; }24% { transition: all 1s 
+ease-in-out; background: #0bb; }26% { transition: all 1s ease-in-out; 
+background: #; }28% { transition: all 1s ease-in-out; background: #1; 
+}30% { transition: all 1s ease-in-out; background: #f34; }32% { 
+transition: all 1s ease-in-out; background: #de0; }34% { transition: all 
+1s ease-in-out; background: #3e; }36% { transition: all 1s ease-in-out; 
+background: #cf; }38% { transition: all 1s ease-in-out; background: #; 
+}40% { transition: all 1s ease-in-out; background: #b11; }42% { 
+transition: all 1s ease-in-out; background: #d; }44% { transition: all 
+1s ease-in-out; background: #44; }46% { transition: all 1s ease-in-out; 
+background: #0; }48% { transition: all 1s ease-in-out; background: #c0; 
+}50% { transition: all 1s ease-in-out; background: #ec3; }52% { 
+transition: all 1s ease-in-out; background: #; }54% { transition: all 1s 
+ease-in-out; background: #1c; }56% { transition: all 1s ease-in-out; 
+background: #be4; }58% { transition: all 1s ease-in-out; background: 
+#23; }60% { transition: all 1s ease-in-out; background: #d4; }62% { 
+transition: all 1s ease-in-out; background: #3; }64% { transition: all 
+1s ease-in-out; background: #43; }66% { transition: all 1s ease-in-out; 
+background: #01; }68% { transition: all 1s ease-in-out; background: #14; 
+}70% { transition: all 1s ease-in-out; background: #1b; }72% { 
+transition: all 1s ease-in-out; background: #bf3; }74% { transition: all 
+1s ease-in-out; background: #1db; }76% { transition: all 1s ease-in-out; 
+background: #d; }78% { transition: all 1s ease-in-out; background: #0; 
+}80% { transition: all 1s ease-in-out; background: #0ed; }82% { 
+transition: all 1s ease-in-out; background: #4cd; }84% { transition: all 
+1s ease-in-out; background: #e2; }86% { transition: all 1s ease-in-out; 
+background: #2f; }88% { transition: all 1s ease-in-out; background: #4; 
+}90% { transition: all 1s ease-in-out; background: #b; }92% { 
+transition: all 1s ease-in-out; background: #3b; }94% { transition: all 
+1s ease-in-out; background: #c; }96% { transition: all 1s ease-in-out; 
+background: #4f; }98% { transition: all 1s ease-in-out; background: 
+#f1c; }100% { transition: all 1s ease-in-out; background: #f1; } 
+}
+@keyframes disco5 { 
+    0% { transition: all 1s ease-in-out; background: #1b4; }2% { 
+transition: all 1s ease-in-out; background: #ec; }4% { transition: all 
+1s ease-in-out; background: #4f; }6% { transition: all 1s ease-in-out; 
+background: #f; }8% { transition: all 1s ease-in-out; background: #d3; 
+}10% { transition: all 1s ease-in-out; background: #e; }12% { 
+transition: all 1s ease-in-out; background: #1; }14% { transition: all 
+1s ease-in-out; background: #; }16% { transition: all 1s ease-in-out; 
+background: #4c0; }18% { transition: all 1s ease-in-out; background: 
+#02; }20% { transition: all 1s ease-in-out; background: #e2e; }22% { 
+transition: all 1s ease-in-out; background: #c; }24% { transition: all 
+1s ease-in-out; background: #31; }26% { transition: all 1s ease-in-out; 
+background: #; }28% { transition: all 1s ease-in-out; background: #f2; 
+}30% { transition: all 1s ease-in-out; background: #1; }32% { 
+transition: all 1s ease-in-out; background: #; }34% { transition: all 1s 
+ease-in-out; background: #f; }36% { transition: all 1s ease-in-out; 
+background: #f2; }38% { transition: all 1s ease-in-out; background: #f3; 
+}40% { transition: all 1s ease-in-out; background: #1b; }42% { 
+transition: all 1s ease-in-out; background: #41; }44% { transition: all 
+1s ease-in-out; background: #30; }46% { transition: all 1s ease-in-out; 
+background: #0; }48% { transition: all 1s ease-in-out; background: #ed; 
+}50% { transition: all 1s ease-in-out; background: #f; }52% { 
+transition: all 1s ease-in-out; background: #ee; }54% { transition: all 
+1s ease-in-out; background: #c42; }56% { transition: all 1s ease-in-out; 
+background: #21; }58% { transition: all 1s ease-in-out; background: #be; 
+}60% { transition: all 1s ease-in-out; background: #e4; }62% { 
+transition: all 1s ease-in-out; background: #f; }64% { transition: all 
+1s ease-in-out; background: #04; }66% { transition: all 1s ease-in-out; 
+background: #01; }68% { transition: all 1s ease-in-out; background: #f; 
+}70% { transition: all 1s ease-in-out; background: #b4e; }72% { 
+transition: all 1s ease-in-out; background: #3; }74% { transition: all 
+1s ease-in-out; background: #d4d; }76% { transition: all 1s ease-in-out; 
+background: #cb; }78% { transition: all 1s ease-in-out; background: #; 
+}80% { transition: all 1s ease-in-out; background: #cb2; }82% { 
+transition: all 1s ease-in-out; background: #33; }84% { transition: all 
+1s ease-in-out; background: #3; }86% { transition: all 1s ease-in-out; 
+background: #41; }88% { transition: all 1s ease-in-out; background: #3; 
+}90% { transition: all 1s ease-in-out; background: #e; }92% { 
+transition: all 1s ease-in-out; background: #2e; }94% { transition: all 
+1s ease-in-out; background: #c01; }96% { transition: all 1s ease-in-out; 
+background: #e; }98% { transition: all 1s ease-in-out; background: #2d4; 
+}100% { transition: all 1s ease-in-out; background: #0f; } 
+}
+@keyframes disco6 { 
+    0% { transition: all 1s ease-in-out; background: #21; }2% { 
+transition: all 1s ease-in-out; background: #01; }4% { transition: all 
+1s ease-in-out; background: #c; }6% { transition: all 1s ease-in-out; 
+background: #f; }8% { transition: all 1s ease-in-out; background: #fc2; 
+}10% { transition: all 1s ease-in-out; background: #ff; }12% { 
+transition: all 1s ease-in-out; background: #c; }14% { transition: all 
+1s ease-in-out; background: #db; }16% { transition: all 1s ease-in-out; 
+background: #0; }18% { transition: all 1s ease-in-out; background: #40; 
+}20% { transition: all 1s ease-in-out; background: #2; }22% { 
+transition: all 1s ease-in-out; background: #0; }24% { transition: all 
+1s ease-in-out; background: #; }26% { transition: all 1s ease-in-out; 
+background: #4c; }28% { transition: all 1s ease-in-out; background: #c; 
+}30% { transition: all 1s ease-in-out; background: #0b; }32% { 
+transition: all 1s ease-in-out; background: #c4; }34% { transition: all 
+1s ease-in-out; background: #b1; }36% { transition: all 1s ease-in-out; 
+background: #1; }38% { transition: all 1s ease-in-out; background: #d31; 
+}40% { transition: all 1s ease-in-out; background: #114; }42% { 
+transition: all 1s ease-in-out; background: #b; }44% { transition: all 
+1s ease-in-out; background: #f3; }46% { transition: all 1s ease-in-out; 
+background: #310; }48% { transition: all 1s ease-in-out; background: 
+#fd; }50% { transition: all 1s ease-in-out; background: #bd; }52% { 
+transition: all 1s ease-in-out; background: #; }54% { transition: all 1s 
+ease-in-out; background: #0; }56% { transition: all 1s ease-in-out; 
+background: #1; }58% { transition: all 1s ease-in-out; background: #31; 
+}60% { transition: all 1s ease-in-out; background: #b3; }62% { 
+transition: all 1s ease-in-out; background: #f0; }64% { transition: all 
+1s ease-in-out; background: #; }66% { transition: all 1s ease-in-out; 
+background: #2; }68% { transition: all 1s ease-in-out; background: #3d; 
+}70% { transition: all 1s ease-in-out; background: #; }72% { transition: 
+all 1s ease-in-out; background: #2ec; }74% { transition: all 1s 
+ease-in-out; background: #0eb; }76% { transition: all 1s ease-in-out; 
+background: #0; }78% { transition: all 1s ease-in-out; background: #c2; 
+}80% { transition: all 1s ease-in-out; background: #32b; }82% { 
+transition: all 1s ease-in-out; background: #2c; }84% { transition: all 
+1s ease-in-out; background: #00; }86% { transition: all 1s ease-in-out; 
+background: #; }88% { transition: all 1s ease-in-out; background: #c1b; 
+}90% { transition: all 1s ease-in-out; background: #12; }92% { 
+transition: all 1s ease-in-out; background: #; }94% { transition: all 1s 
+ease-in-out; background: #203; }96% { transition: all 1s ease-in-out; 
+background: #e; }98% { transition: all 1s ease-in-out; background: #f2; 
+}100% { transition: all 1s ease-in-out; background: #c; } 
+}
+@keyframes disco7 { 
+    0% { transition: all 1s ease-in-out; background: #0ef; }2% { 
+transition: all 1s ease-in-out; background: #ce4; }4% { transition: all 
+1s ease-in-out; background: #d32; }6% { transition: all 1s ease-in-out; 
+background: #bf4; }8% { transition: all 1s ease-in-out; background: #1; 
+}10% { transition: all 1s ease-in-out; background: #d1; }12% { 
+transition: all 1s ease-in-out; background: #df1; }14% { transition: all 
+1s ease-in-out; background: #2; }16% { transition: all 1s ease-in-out; 
+background: #e0; }18% { transition: all 1s ease-in-out; background: 
+#2dc; }20% { transition: all 1s ease-in-out; background: #d; }22% { 
+transition: all 1s ease-in-out; background: #fe; }24% { transition: all 
+1s ease-in-out; background: #b; }26% { transition: all 1s ease-in-out; 
+background: #04; }28% { transition: all 1s ease-in-out; background: #bb; 
+}30% { transition: all 1s ease-in-out; background: #d2c; }32% { 
+transition: all 1s ease-in-out; background: #e; }34% { transition: all 
+1s ease-in-out; background: #b2; }36% { transition: all 1s ease-in-out; 
+background: #f; }38% { transition: all 1s ease-in-out; background: #f0b; 
+}40% { transition: all 1s ease-in-out; background: #00; }42% { 
+transition: all 1s ease-in-out; background: #0f; }44% { transition: all 
+1s ease-in-out; background: #ec1; }46% { transition: all 1s ease-in-out; 
+background: #3d; }48% { transition: all 1s ease-in-out; background: #d2; 
+}50% { transition: all 1s ease-in-out; background: #c3b; }52% { 
+transition: all 1s ease-in-out; background: #0; }54% { transition: all 
+1s ease-in-out; background: #db; }56% { transition: all 1s ease-in-out; 
+background: #02; }58% { transition: all 1s ease-in-out; background: #f3; 
+}60% { transition: all 1s ease-in-out; background: #33; }62% { 
+transition: all 1s ease-in-out; background: #0; }64% { transition: all 
+1s ease-in-out; background: #33; }66% { transition: all 1s ease-in-out; 
+background: #c; }68% { transition: all 1s ease-in-out; background: #c; 
+}70% { transition: all 1s ease-in-out; background: #4; }72% { 
+transition: all 1s ease-in-out; background: #41c; }74% { transition: all 
+1s ease-in-out; background: #4; }76% { transition: all 1s ease-in-out; 
+background: #f; }78% { transition: all 1s ease-in-out; background: #d; 
+}80% { transition: all 1s ease-in-out; background: #2; }82% { 
+transition: all 1s ease-in-out; background: #3; }84% { transition: all 
+1s ease-in-out; background: #; }86% { transition: all 1s ease-in-out; 
+background: #2ec; }88% { transition: all 1s ease-in-out; background: 
+#44; }90% { transition: all 1s ease-in-out; background: #32f; }92% { 
+transition: all 1s ease-in-out; background: #c; }94% { transition: all 
+1s ease-in-out; background: #3f; }96% { transition: all 1s ease-in-out; 
+background: #14c; }98% { transition: all 1s ease-in-out; background: 
+#11; }100% { transition: all 1s ease-in-out; background: #c1; } 
+}
+@keyframes disco8 { 
+    0% { transition: all 1s ease-in-out; background: #e4; }2% { 
+transition: all 1s ease-in-out; background: #44e; }4% { transition: all 
+1s ease-in-out; background: #4d0; }6% { transition: all 1s ease-in-out; 
+background: #3b; }8% { transition: all 1s ease-in-out; background: #de; 
+}10% { transition: all 1s ease-in-out; background: #f4; }12% { 
+transition: all 1s ease-in-out; background: #4e; }14% { transition: all 
+1s ease-in-out; background: #f; }16% { transition: all 1s ease-in-out; 
+background: #4e0; }18% { transition: all 1s ease-in-out; background: 
+#c2; }20% { transition: all 1s ease-in-out; background: #bcc; }22% { 
+transition: all 1s ease-in-out; background: #3; }24% { transition: all 
+1s ease-in-out; background: #02; }26% { transition: all 1s ease-in-out; 
+background: #c; }28% { transition: all 1s ease-in-out; background: #1; 
+}30% { transition: all 1s ease-in-out; background: #fb2; }32% { 
+transition: all 1s ease-in-out; background: #e; }34% { transition: all 
+1s ease-in-out; background: #2eb; }36% { transition: all 1s ease-in-out; 
+background: #1; }38% { transition: all 1s ease-in-out; background: #23; 
+}40% { transition: all 1s ease-in-out; background: #4f3; }42% { 
+transition: all 1s ease-in-out; background: #; }44% { transition: all 1s 
+ease-in-out; background: #ce; }46% { transition: all 1s ease-in-out; 
+background: #eb; }48% { transition: all 1s ease-in-out; background: #cd; 
+}50% { transition: all 1s ease-in-out; background: #0; }52% { 
+transition: all 1s ease-in-out; background: #fd; }54% { transition: all 
+1s ease-in-out; background: #f0; }56% { transition: all 1s ease-in-out; 
+background: #; }58% { transition: all 1s ease-in-out; background: #01; 
+}60% { transition: all 1s ease-in-out; background: #fb; }62% { 
+transition: all 1s ease-in-out; background: #0d; }64% { transition: all 
+1s ease-in-out; background: #d; }66% { transition: all 1s ease-in-out; 
+background: #04; }68% { transition: all 1s ease-in-out; background: #d; 
+}70% { transition: all 1s ease-in-out; background: #; }72% { transition: 
+all 1s ease-in-out; background: #c; }74% { transition: all 1s 
+ease-in-out; background: #442; }76% { transition: all 1s ease-in-out; 
+background: #431; }78% { transition: all 1s ease-in-out; background: 
+#22; }80% { transition: all 1s ease-in-out; background: #3ed; }82% { 
+transition: all 1s ease-in-out; background: #be; }84% { transition: all 
+1s ease-in-out; background: #b0; }86% { transition: all 1s ease-in-out; 
+background: #4; }88% { transition: all 1s ease-in-out; background: #f4; 
+}90% { transition: all 1s ease-in-out; background: #b3f; }92% { 
+transition: all 1s ease-in-out; background: #203; }94% { transition: all 
+1s ease-in-out; background: #ebd; }96% { transition: all 1s ease-in-out; 
+background: #f; }98% { transition: all 1s ease-in-out; background: #; 
+}100% { transition: all 1s ease-in-out; background: #3; } 
+}
+@keyframes disco9 { 
+    0% { transition: all 1s ease-in-out; background: #ce; }2% { 
+transition: all 1s ease-in-out; background: #1f; }4% { transition: all 
+1s ease-in-out; background: #cb; }6% { transition: all 1s ease-in-out; 
+background: #0f; }8% { transition: all 1s ease-in-out; background: #c; 
+}10% { transition: all 1s ease-in-out; background: #ce; }12% { 
+transition: all 1s ease-in-out; background: #f12; }14% { transition: all 
+1s ease-in-out; background: #1; }16% { transition: all 1s ease-in-out; 
+background: #fe; }18% { transition: all 1s ease-in-out; background: 
+#dfd; }20% { transition: all 1s ease-in-out; background: #04; }22% { 
+transition: all 1s ease-in-out; background: #3b; }24% { transition: all 
+1s ease-in-out; background: #; }26% { transition: all 1s ease-in-out; 
+background: #1; }28% { transition: all 1s ease-in-out; background: #e3; 
+}30% { transition: all 1s ease-in-out; background: #e; }32% { 
+transition: all 1s ease-in-out; background: #ce; }34% { transition: all 
+1s ease-in-out; background: #ff; }36% { transition: all 1s ease-in-out; 
+background: #bd3; }38% { transition: all 1s ease-in-out; background: #; 
+}40% { transition: all 1s ease-in-out; background: #bf; }42% { 
+transition: all 1s ease-in-out; background: #f; }44% { transition: all 
+1s ease-in-out; background: #ef; }46% { transition: all 1s ease-in-out; 
+background: #b; }48% { transition: all 1s ease-in-out; background: #fb; 
+}50% { transition: all 1s ease-in-out; background: #; }52% { transition: 
+all 1s ease-in-out; background: #e44; }54% { transition: all 1s 
+ease-in-out; background: #b; }56% { transition: all 1s ease-in-out; 
+background: #3b; }58% { transition: all 1s ease-in-out; background: 
+#224; }60% { transition: all 1s ease-in-out; background: #d; }62% { 
+transition: all 1s ease-in-out; background: #1f; }64% { transition: all 
+1s ease-in-out; background: #d12; }66% { transition: all 1s ease-in-out; 
+background: #0; }68% { transition: all 1s ease-in-out; background: #ce2; 
+}70% { transition: all 1s ease-in-out; background: #3b0; }72% { 
+transition: all 1s ease-in-out; background: #b; }74% { transition: all 
+1s ease-in-out; background: #343; }76% { transition: all 1s ease-in-out; 
+background: #23d; }78% { transition: all 1s ease-in-out; background: 
+#ecf; }80% { transition: all 1s ease-in-out; background: #b1; }82% { 
+transition: all 1s ease-in-out; background: #f03; }84% { transition: all 
+1s ease-in-out; background: #3eb; }86% { transition: all 1s ease-in-out; 
+background: #bf3; }88% { transition: all 1s ease-in-out; background: #1; 
+}90% { transition: all 1s ease-in-out; background: #321; }92% { 
+transition: all 1s ease-in-out; background: #42; }94% { transition: all 
+1s ease-in-out; background: #c3; }96% { transition: all 1s ease-in-out; 
+background: #ec; }98% { transition: all 1s ease-in-out; background: #b1; 
+}100% { transition: all 1s ease-in-out; background: #2; } 
+}
+@keyframes disco { 
+    0% { transition: all 1s ease-in-out; background: #1d3; }2% { 
+transition: all 1s ease-in-out; background: #4; }4% { transition: all 1s 
+ease-in-out; background: #04; }6% { transition: all 1s ease-in-out; 
+background: #23; }8% { transition: all 1s ease-in-out; background: #fcc; 
+}10% { transition: all 1s ease-in-out; background: #f; }12% { 
+transition: all 1s ease-in-out; background: #f4; }14% { transition: all 
+1s ease-in-out; background: #2e; }16% { transition: all 1s ease-in-out; 
+background: #3ef; }18% { transition: all 1s ease-in-out; background: 
+#0dd; }20% { transition: all 1s ease-in-out; background: #3e; }22% { 
+transition: all 1s ease-in-out; background: #cf; }24% { transition: all 
+1s ease-in-out; background: #2df; }26% { transition: all 1s ease-in-out; 
+background: #db; }28% { transition: all 1s ease-in-out; background: #1; 
+}30% { transition: all 1s ease-in-out; background: #1e; }32% { 
+transition: all 1s ease-in-out; background: #21; }34% { transition: all 
+1s ease-in-out; background: #3; }36% { transition: all 1s ease-in-out; 
+background: #23; }38% { transition: all 1s ease-in-out; background: #43; 
+}40% { transition: all 1s ease-in-out; background: #3d; }42% { 
+transition: all 1s ease-in-out; background: #1f; }44% { transition: all 
+1s ease-in-out; background: #00; }46% { transition: all 1s ease-in-out; 
+background: #4db; }48% { transition: all 1s ease-in-out; background: 
+#024; }50% { transition: all 1s ease-in-out; background: #14; }52% { 
+transition: all 1s ease-in-out; background: #; }54% { transition: all 1s 
+ease-in-out; background: #; }56% { transition: all 1s ease-in-out; 
+background: #22; }58% { transition: all 1s ease-in-out; background: #fd; 
+}60% { transition: all 1s ease-in-out; background: #1; }62% { 
+transition: all 1s ease-in-out; background: #; }64% { transition: all 1s 
+ease-in-out; background: #c; }66% { transition: all 1s ease-in-out; 
+background: #dc; }68% { transition: all 1s ease-in-out; background: #f; 
+}70% { transition: all 1s ease-in-out; background: #00; }72% { 
+transition: all 1s ease-in-out; background: #; }74% { transition: all 1s 
+ease-in-out; background: #d; }76% { transition: all 1s ease-in-out; 
+background: #04; }78% { transition: all 1s ease-in-out; background: #; 
+}80% { transition: all 1s ease-in-out; background: #c0; }82% { 
+transition: all 1s ease-in-out; background: #b; }84% { transition: all 
+1s ease-in-out; background: #244; }86% { transition: all 1s ease-in-out; 
+background: #13; }88% { transition: all 1s ease-in-out; background: 
+#de2; }90% { transition: all 1s ease-in-out; background: #0e2; }92% { 
+transition: all 1s ease-in-out; background: #c1; }94% { transition: all 
+1s ease-in-out; background: #3; }96% { transition: all 1s ease-in-out; 
+background: #300; }98% { transition: all 1s ease-in-out; background: #e; 
+}100% { transition: all 1s ease-in-out; background: #cc0; } 
+}
+
+
